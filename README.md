@@ -12,7 +12,7 @@
 
 ## 🚀 Tech Stack
 
-* 💻 Frontend: React, HTML, CSS, JavaScript, TypeScript
+* 💻 Frontend: React, HTML, CSS, JavaScript
 * 🛠 Backend: Node.js, Express.js
 * 🗄 Database: MongoDB
 * 🔄 State Management: Redux Toolkit
